@@ -6,6 +6,7 @@
     "syntax-async-functions",
     "syntax-class-properties",
     "syntax-trailing-function-commas",
+    "transform-decorators-legacy",
     "transform-class-properties",
     "transform-es2015-arrow-functions",
     "transform-es2015-block-scoping",
